@@ -48,4 +48,5 @@ git clone <your-repository-url>
 
 - Build and run the project.
 
-Note: This application was developed as an academic project for the 2025 academic year.
+---
+*Developed as an individual project for the MSc in Informatics for the 2025 academic year. *
